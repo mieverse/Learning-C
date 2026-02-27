@@ -1,0 +1,7 @@
+git status
+
+git add .
+git commit -m "Write what you changed" | git commit -m "Added user input feature"
+git push
+
+git add . && git commit -m "Your message" && git push
